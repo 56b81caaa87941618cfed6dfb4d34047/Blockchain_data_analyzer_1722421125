@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a \"Submit\" button for you.",
+        "message_id": "guest31072024103132",
+        "timestamp": "31072024103133",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that says submit",
         "message_id": "guest31072024103132",
