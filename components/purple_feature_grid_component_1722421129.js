@@ -55,6 +55,13 @@ Vue.component("purple_feature_grid_component_1722421129", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm" :class="textPrimaryStyle">Share analyses, dashboards, and visualizations with your team via integrated sharing and annotation tools for seamless collaboration.</p></div>
         </div>
+        <!-- Submit Button -->
+        <div class="col-span-3 flex justify-center mt-4">
+            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                Submit
+            </button>
+        </div>
+    </div>`,
     </div>`,
         data() {
             return {
