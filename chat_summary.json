@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain network status display\", \"checked\": true}, {\"feature\": \"Cryptocurrency price trends and analytics charts\", \"checked\": false}, {\"feature\": \"Customizable alert system for blockchain anomalies\", \"checked\": false}, {\"feature\": \"User profile integration for personalized analytics\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer with search functionality\", \"checked\": false}, {\"feature\": \"Dark and light mode toggle for user preference\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 101, \"time_taken\": \"0:00:06.368580\"}",
         "timestamp": "31072024101939",
         "message_id": "guest31072024101930"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "timestamp": "31072024102859",
+        "message_id": "guest31072024102859"
     }
 ]
