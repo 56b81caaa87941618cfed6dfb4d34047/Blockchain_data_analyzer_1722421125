@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app interface?\", \"option1\": \"Below the form fields\", \"option2\": \"Top right corner of the screen\"}, {\"question 2\": \"Should the 'Submit' button have any specific colors or design elements that align with the app's branding?\", \"option1\": \"Yes, it should match the app's primary color scheme\", \"option2\": \"No, a standard button style is fine\"}], \"input_token_count\": 260, \"output_token_count\": 111, \"time_taken\": \"0:00:03.334063\"}",
+        "message_id": "guest31072024102859",
+        "timestamp": "31072024102904",
+        "component_file_name": "dark_footer_component_1722421129",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button labeled Submit.",
         "message_id": "guest31072024102859",
