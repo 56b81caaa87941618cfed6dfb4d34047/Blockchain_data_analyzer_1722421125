@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Submit' button to have a specific color theme to match your app's aesthetic or standard colors?\", \"option1\": \"Yes, I would like to specify a color theme.\", \"option2\": \"No, standard colors are fine.\"}, {\"question 2\": \"Do you want the 'Submit' button to have any specific functionalities or actions attached upon clicking it?\", \"option1\": \"Yes, I would like to specify an action/functionality.\", \"option2\": \"No, just a button without any attached actions.\"}], \"input_token_count\": 328, \"output_token_count\": 124, \"time_taken\": \"0:00:04.083197\"}",
+        "message_id": "guest31072024103132",
+        "timestamp": "31072024103138",
+        "component_file_name": "purple_feature_grid_component_1722421129",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a \"Submit\" button for you.",
         "message_id": "guest31072024103132",
